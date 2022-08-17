@@ -197,7 +197,6 @@
         }
       }
     }
-
     function logOut() {
       liff.logout()
       window.location.reload()
